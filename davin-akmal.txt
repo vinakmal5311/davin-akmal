@@ -1,3 +1,4 @@
 Davin Akmal
   - membuat portfolio
+  - membuat web
   - dan, project lainnya
